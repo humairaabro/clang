@@ -1,0 +1,2 @@
+Cling hello.c
+./.out
